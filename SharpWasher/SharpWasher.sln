@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.21
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpWasher", "SharpWasher\SharpWasher.csproj", "{F7E01EF7-70AA-4901-9D34-A08D88AB533C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E01EF7-70AA-4901-9D34-A08D88AB533C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F7E01EF7-70AA-4901-9D34-A08D88AB533C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F7E01EF7-70AA-4901-9D34-A08D88AB533C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F7E01EF7-70AA-4901-9D34-A08D88AB533C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDBD3CD-440C-4ED0-866D-E754B8B1DB46}
+	EndGlobalSection
+EndGlobal

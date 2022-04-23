@@ -1,0 +1,6 @@
+/Users/strawberry/Projects/OOP-lr3-delegates/SharpWasher/SharpWasher/bin/Debug/SharpWasher.exe
+/Users/strawberry/Projects/OOP-lr3-delegates/SharpWasher/SharpWasher/bin/Debug/SharpWasher.pdb
+/Users/strawberry/Projects/OOP-lr3-delegates/SharpWasher/SharpWasher/obj/Debug/SharpWasher.csproj.AssemblyReference.cache
+/Users/strawberry/Projects/OOP-lr3-delegates/SharpWasher/SharpWasher/obj/Debug/SharpWasher.csproj.CoreCompileInputs.cache
+/Users/strawberry/Projects/OOP-lr3-delegates/SharpWasher/SharpWasher/obj/Debug/SharpWasher.exe
+/Users/strawberry/Projects/OOP-lr3-delegates/SharpWasher/SharpWasher/obj/Debug/SharpWasher.pdb
